@@ -1,0 +1,13 @@
+# Git + Github
+.git
+.gitignore
+README.md
+LICENSE*
+
+# Docker
+.dockerignore
+Dockerfile
+
+# Python
+__pycache__/
+venv
